@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.8.12",
         status: false,
-        name: "basicBot",
+        name: "☣⚔CookieBot⚔☣",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
